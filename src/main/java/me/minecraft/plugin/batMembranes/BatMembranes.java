@@ -28,7 +28,6 @@ public final class BatMembranes extends JavaPlugin implements Listener {
         LivingEntity ent = e.getEntity();
         Random ran = new Random();
         int num = ran.nextInt(100);
-
         if (ent.getType() == EntityType.BAT) {
             if (num < 25) {
                 e.getDrops().add(new ItemStack(Material.PHANTOM_MEMBRANE));
@@ -41,7 +40,6 @@ public final class BatMembranes extends JavaPlugin implements Listener {
     @EventHandler
     public void phantomSpawn(EntitySpawnEvent e) {
         Entity ent = e.getEntity();
-
         if (ent.getType() == EntityType.PHANTOM) {
             e.setCancelled(true);
         }
