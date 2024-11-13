@@ -4,7 +4,7 @@ Bats will drop membranes, phantoms will be disabled.
 
 **INSTALATION:**
 1. Use one of these options to download BatMembranes plugin:
-- [GitHub releases] Available soon
+- [GitHub releases] https://github.com/JustErikSK/BatMembranes-plugin/releases
 - [Spigot] Available soon
 - [CurseForge] Available soon
 - [Modrinth] Available soon
