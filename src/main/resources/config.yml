@@ -1,0 +1,25 @@
+# Configuration file for Bat Membranes plugin
+# You can set your own drop percentage and drop amount here
+# If you set a number that's more/less than the set maximum/minimum, plugin will automatically use the default value
+
+# MEMBRANE DROP PERCENTAGE
+# (Default = 25; Min = 1; Max = 100)
+membrane_drop_percentage: 25
+
+# MEMBRANE DROP AMOUNT
+# (Default = 1; Min = 1; Max = 10)
+membrane_drop_amount: 1
+
+# This plugin also introduces a bonus drop for membranes, you'll have a small chance to get some bonus membranes!
+
+# MEMBRANE BONUS DROP PERCENTAGE
+# (Default = 15; Min = 1; Max = 30)
+membrane_bonus_drop_percentage: 15
+
+# MEMBRANE BONUS DROP AMOUNT
+# (Default = 2; Min = 1; Max = 3)
+membrane_bonus_drop_amount: 2
+
+# Last updated for Bat Membranes v1.1
+# Version 1.1 works on MC versions 1.21 - 1.21.5
+# End of config file
