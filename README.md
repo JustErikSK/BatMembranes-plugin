@@ -1,4 +1,4 @@
-# BatMembranes Plugin
+# Bat Membranes Plugin
 Phantoms are disabled and bats drop phantom membranes intead. They have 25% chance to drop 1 membrane and 15% chance to drop 2 membranes by default. This can be changed in the config file.
 
 You can find detailed information about this plugin on our Wiki https://with-rage-studios-plugins.fandom.com/wiki/Bat_Membranes
