@@ -10,3 +10,5 @@ Bats will drop membranes, phantoms will be disabled.
 2. Drop the file in your server's plugins folder and start your server, plugin will automatically load.
 
 ## Bats have 25% chance to drop 1 membrane and 15% chance to drop 2 membranes.
+
+This plugin will work on versions 1.21 - 1.21.6
