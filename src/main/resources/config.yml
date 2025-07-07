@@ -20,6 +20,6 @@ membrane_bonus_drop_percentage: 15
 # (Default = 2; Min = 1; Max = 3)
 membrane_bonus_drop_amount: 2
 
-# Last updated for Bat Membranes v1.1.1
-# Version 1.1 works on MC versions 1.21 - 1.21.6
+# Last updated for Bat Membranes v1.1.2
+# Version 1.1.2 works on MC versions 1.21 - 1.21.7
 # End of config file
