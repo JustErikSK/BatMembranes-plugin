@@ -4,3 +4,4 @@ main: me.minecraft.plugin.batMembranes.BatMembranes
 api-version: 1.21
 authors: [ JustErikSK ]
 description: Bat will drop membranes, phantoms will be disabled
+folia-supported: true
