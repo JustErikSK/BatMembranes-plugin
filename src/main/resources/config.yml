@@ -20,5 +20,5 @@ membrane_bonus_drop_percentage: 15
 # (Default = 2; Min = 1; Max = 3)
 membrane_bonus_drop_amount: 2
 
-# Version 1.1.4 works on MC versions 1.21 - 1.21.8
+# Version 1.1.5 works on MC versions 1.21 - 1.21.9
 # End of config file

@@ -1,5 +1,5 @@
 name: BatMembranes
-version: 1.1.4
+version: 1.1.5
 main: me.minecraft.plugin.batMembranes.BatMembranes
 api-version: 1.21
 authors: [ JustErikSK ]
