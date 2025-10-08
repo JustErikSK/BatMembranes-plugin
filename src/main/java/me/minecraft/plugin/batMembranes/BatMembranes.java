@@ -87,6 +87,11 @@ public final class BatMembranes extends JavaPlugin implements Listener {
                 }
             }
         }
+
+        if (ent.getType() == EntityType.PHANTOM) {
+            e.getDrops().clear();
+            e.setDroppedExp(5);
+        }
     }
 
     @EventHandler
