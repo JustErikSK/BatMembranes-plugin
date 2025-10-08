@@ -21,7 +21,6 @@ public final class BatMembranes extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
-        Bukkit.getConsoleSender().sendMessage(ChatColor.DARK_GREEN + "Bat Membranes >> Plugin has been enabled!");
         this.getServer().getPluginManager().registerEvents(this, this);
         saveDefaultConfig();
 
@@ -38,6 +37,7 @@ public final class BatMembranes extends JavaPlugin implements Listener {
         config.addDefault("phantoms", false);
 
         getLogger().info("Config loaded!");
+        Bukkit.getConsoleSender().sendMessage(ChatColor.DARK_GREEN + "Bat Membranes >> Plugin has been enabled!");
     }
 
     @EventHandler
