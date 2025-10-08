@@ -11,14 +11,20 @@ membrane_drop_percentage: 25
 membrane_drop_amount: 1
 
 # This plugin also introduces a bonus drop for membranes, you'll have a small chance to get some bonus membranes!
+# (Default = true; Options = true, false)
+membrane_bonus_drop: true
 
 # MEMBRANE BONUS DROP PERCENTAGE
-# (Default = 15; Min = 1; Max = 30)
+# (Default = 15; Min = 1; Max = 50)
 membrane_bonus_drop_percentage: 15
 
 # MEMBRANE BONUS DROP AMOUNT
-# (Default = 2; Min = 1; Max = 3)
+# (Default = 2; Min = 1; Max = 5)
 membrane_bonus_drop_amount: 2
 
-# Version 1.1.5 works on MC versions 1.21 - 1.21.9
+# Option to turn on phantoms - they won't drop membranes tho
+# (Default = false; Options = true, false)
+phantoms: false
+
+# Version 1.2 works on MC versions 1.21 - 1.21.10
 # End of config file
