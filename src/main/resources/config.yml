@@ -26,5 +26,5 @@ membrane_bonus_drop_amount: 2
 # (Default = false; Options = true, false)
 phantoms: false
 
-# Version 1.2 works on MC versions 1.21 - 1.21.10
+# Version 1.2 works on MC versions 1.21 - 1.21.11
 # End of config file
