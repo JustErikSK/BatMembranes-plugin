@@ -1,7 +1,7 @@
 name: BatMembranes
-version: 1.2.1
+version: 1.2.2
 main: me.minecraft.plugin.batMembranes.BatMembranes
-api-version: 1.21
+api-version: 26.1
 authors: [ JustErikSK ]
 description: Bats drop membranes instead of phantoms - those are disabled but can still be enabled with the config file!
 folia-supported: true
